@@ -34,7 +34,8 @@ $
 $\mathcal{JS}(M(x), T_d(x)) = 0.5*\mathcal{KL}(M(x)||m)+ 0.5*\mathcal{KL}(T_d(x)||m)$
 
 
-if $\mbox{i(w;D) > 0}$, then $\mbox{efficacy}(w;D) = \frac{1}{i(w; D)}$; otherwise $\mbox{efficacy}(w;D) = \infty$
+if $\mbox{i(w;D) > 0}$, then $\mbox{efficacy}(w;D) = \frac{1}{i(w; D)}$; 
+otherwise $\mbox{efficacy}(w;D) = \infty$
 
 
 
