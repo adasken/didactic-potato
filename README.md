@@ -28,4 +28,4 @@ f(n) =
   \end{cases}
 $
 
-($\mathcal{ZFR} = 0$)
+\($\mathcal{ZFR} = 0$\)
