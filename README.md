@@ -18,9 +18,9 @@ $
 \end{cases}
 $
 
-$\[ f(n) =
+$ f(n) =
   \begin{cases}
     n/2       & \quad \text{if } n \text{ is even}\\
     -(n+1)/2  & \quad \text{if } n \text{ is odd}
   \end{cases}
-\]$
+$
