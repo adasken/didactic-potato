@@ -32,3 +32,9 @@ $
 
 
 $\mathcal{JS}(M(x), T_d(x)) = 0.5*\mathcal{KL}(M(x)||m)+ 0.5*\mathcal{KL}(T_d(x)||m)$
+
+
+$\mbox{a}$
+
+
+
